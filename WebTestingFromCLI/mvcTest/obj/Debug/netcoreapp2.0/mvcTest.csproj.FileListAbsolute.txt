@@ -1,0 +1,9 @@
+c:\CLITesting\mvcTest\bin\Debug\netcoreapp2.0\mvcTest.deps.json
+c:\CLITesting\mvcTest\bin\Debug\netcoreapp2.0\mvcTest.runtimeconfig.json
+c:\CLITesting\mvcTest\bin\Debug\netcoreapp2.0\mvcTest.runtimeconfig.dev.json
+c:\CLITesting\mvcTest\bin\Debug\netcoreapp2.0\mvcTest.dll
+c:\CLITesting\mvcTest\bin\Debug\netcoreapp2.0\mvcTest.pdb
+c:\CLITesting\mvcTest\obj\Debug\netcoreapp2.0\mvcTest.csproj.CoreCompileInputs.cache
+c:\CLITesting\mvcTest\obj\Debug\netcoreapp2.0\mvcTest.AssemblyInfo.cs
+c:\CLITesting\mvcTest\obj\Debug\netcoreapp2.0\mvcTest.dll
+c:\CLITesting\mvcTest\obj\Debug\netcoreapp2.0\mvcTest.pdb
